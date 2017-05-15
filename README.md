@@ -10,3 +10,5 @@ I want to test the different statements that merge files.
 So that is why I am adding 2 commits.
 
 And now the last test of the day.
+
+With 2 commits again.

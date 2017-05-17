@@ -15,11 +15,11 @@ And now the last test of the day.
 With 2 commits again.
 
 It's me again.
-## heading 2
-###heading 3
-####heading 5
-
-*list 1
-*list2
-*list3
+## heading 2 you neaad a space between the pund signs and the header otherwise it won't work
+### heading 3
+#### heading 5
+*is this italic writing*
+* list 1 same goes for lists
+* list2
+* list3
 

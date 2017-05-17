@@ -15,10 +15,10 @@ And now the last test of the day.
 With 2 commits again.
 
 It's me again.
-## heading 2 you neaad a space between the pund signs and the header otherwise it won't work
+## heading 2 you neaad a space between the pound signs and the header otherwise it won't work
 ### heading 3
 #### heading 5
-*is this italic writing*
+*is this italic writing* what you want in italics you need to place between two asterixes
 * list 1 same goes for lists
 * list2
 * list3
